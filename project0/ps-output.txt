@@ -1,0 +1,199 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 May14 ?        00:00:00 /sbin/init
+root           2       0  0 May14 ?        00:00:00 [kthreadd]
+root           3       2  0 May14 ?        00:00:00 [rcu_gp]
+root           4       2  0 May14 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 May14 ?        00:00:00 [slub_flushwq]
+root           6       2  0 May14 ?        00:00:00 [netns]
+root           8       2  0 May14 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          10       2  0 May14 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 May14 ?        00:00:00 [rcu_tasks_rude_]
+root          12       2  0 May14 ?        00:00:00 [rcu_tasks_trace]
+root          13       2  0 May14 ?        00:00:00 [ksoftirqd/0]
+root          14       2  0 May14 ?        00:00:00 [rcu_sched]
+root          15       2  0 May14 ?        00:00:00 [migration/0]
+root          16       2  0 May14 ?        00:00:00 [idle_inject/0]
+root          18       2  0 May14 ?        00:00:00 [cpuhp/0]
+root          19       2  0 May14 ?        00:00:00 [cpuhp/1]
+root          20       2  0 May14 ?        00:00:00 [idle_inject/1]
+root          21       2  0 May14 ?        00:00:00 [migration/1]
+root          22       2  0 May14 ?        00:00:00 [ksoftirqd/1]
+root          24       2  0 May14 ?        00:00:00 [kworker/1:0H-events_highpri]
+root          25       2  0 May14 ?        00:00:00 [cpuhp/2]
+root          26       2  0 May14 ?        00:00:00 [idle_inject/2]
+root          27       2  0 May14 ?        00:00:00 [migration/2]
+root          28       2  0 May14 ?        00:00:00 [ksoftirqd/2]
+root          30       2  0 May14 ?        00:00:00 [kworker/2:0H-events_highpri]
+root          31       2  0 May14 ?        00:00:00 [cpuhp/3]
+root          32       2  0 May14 ?        00:00:00 [idle_inject/3]
+root          33       2  0 May14 ?        00:00:00 [migration/3]
+root          34       2  0 May14 ?        00:00:00 [ksoftirqd/3]
+root          36       2  0 May14 ?        00:00:00 [kworker/3:0H-events_highpri]
+root          37       2  0 May14 ?        00:00:00 [kdevtmpfs]
+root          38       2  0 May14 ?        00:00:00 [inet_frag_wq]
+root          41       2  0 May14 ?        00:00:00 [kworker/3:1-cgroup_destroy]
+root          42       2  0 May14 ?        00:00:00 [kauditd]
+root          43       2  0 May14 ?        00:00:00 [khungtaskd]
+root          44       2  0 May14 ?        00:00:00 [oom_reaper]
+root          45       2  0 May14 ?        00:00:00 [writeback]
+root          46       2  0 May14 ?        00:00:00 [kcompactd0]
+root          47       2  0 May14 ?        00:00:00 [ksmd]
+root          48       2  0 May14 ?        00:00:00 [khugepaged]
+root          94       2  0 May14 ?        00:00:00 [kintegrityd]
+root          95       2  0 May14 ?        00:00:00 [kblockd]
+root          96       2  0 May14 ?        00:00:00 [blkcg_punt_bio]
+root          97       2  0 May14 ?        00:00:00 [tpm_dev_wq]
+root          98       2  0 May14 ?        00:00:00 [ata_sff]
+root          99       2  0 May14 ?        00:00:00 [md]
+root         100       2  0 May14 ?        00:00:00 [edac-poller]
+root         101       2  0 May14 ?        00:00:00 [devfreq_wq]
+root         102       2  0 May14 ?        00:00:00 [watchdogd]
+root         103       2  0 May14 ?        00:00:00 [kworker/u8:1-events_power_efficient]
+root         104       2  0 May14 ?        00:00:00 [kworker/0:1H-kblockd]
+root         105       2  0 May14 ?        00:00:00 [kswapd0]
+root         106       2  0 May14 ?        00:00:00 [ecryptfs-kthrea]
+root         108       2  0 May14 ?        00:00:00 [kthrotld]
+root         109       2  0 May14 ?        00:00:00 [irq/49-ACPI:Ged]
+root         110       2  0 May14 ?        00:00:00 [acpi_thermal_pm]
+root         112       2  0 May14 ?        00:00:00 [mld]
+root         113       2  0 May14 ?        00:00:00 [kworker/1:1H-kblockd]
+root         114       2  0 May14 ?        00:00:00 [ipv6_addrconf]
+root         123       2  0 May14 ?        00:00:00 [kstrp]
+root         126       2  0 May14 ?        00:00:00 [zswap-shrink]
+root         127       2  0 May14 ?        00:00:00 [kworker/u9:0]
+root         131       2  0 May14 ?        00:00:00 [cryptd]
+root         169       2  0 May14 ?        00:00:00 [charger_manager]
+root         215       2  0 May14 ?        00:00:00 [kworker/3:1H-kblockd]
+root         263       2  0 May14 ?        00:00:00 [kworker/2:1H-kblockd]
+root         265       2  0 May14 ?        00:00:00 [kdmflush]
+root         293       2  0 May14 ?        00:00:00 [raid5wq]
+root         342       2  0 May14 ?        00:00:00 [jbd2/dm-0-8]
+root         343       2  0 May14 ?        00:00:00 [ext4-rsv-conver]
+root         378       2  0 May14 ?        00:00:00 [hwrng]
+root         420       1  0 May14 ?        00:00:00 /lib/systemd/systemd-journald
+root         459       2  0 May14 ?        00:00:00 [kworker/2:2-events]
+root         460       2  0 May14 ?        00:00:00 [kaluad]
+root         461       2  0 May14 ?        00:00:00 [kmpath_rdacd]
+root         463       2  0 May14 ?        00:00:00 [kmpathd]
+root         464       2  0 May14 ?        00:00:00 [kmpath_handlerd]
+root         465       1  0 May14 ?        00:00:00 /sbin/multipathd -d -s
+root         468       1  0 May14 ?        00:00:00 /lib/systemd/systemd-udevd
+root         564       2  0 May14 ?        00:00:00 [jbd2/vda2-8]
+root         565       2  0 May14 ?        00:00:00 [ext4-rsv-conver]
+root         569       2  0 May14 ?        00:00:00 [kworker/3:3-events]
+systemd+     604       1  0 May14 ?        00:00:07 /lib/systemd/systemd-oomd
+systemd+     606       1  0 May14 ?        00:00:00 /lib/systemd/systemd-timesyncd
+systemd+     693       1  0 May14 ?        00:00:00 /lib/systemd/systemd-networkd
+systemd+     696       1  0 May14 ?        00:00:00 /lib/systemd/systemd-resolved
+avahi        707       1  0 May14 ?        00:00:00 avahi-daemon: running [chloe.local]
+message+     708       1  0 May14 ?        00:00:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         709       1  0 May14 ?        00:00:00 /usr/sbin/NetworkManager --no-daemon
+root         714       1  0 May14 ?        00:00:00 /usr/sbin/irqbalance --foreground
+root         715       1  0 May14 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         716       1  0 May14 ?        00:00:00 /usr/libexec/polkitd --no-debug
+root         717       1  0 May14 ?        00:00:00 /usr/libexec/power-profiles-daemon
+syslog       718       1  0 May14 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         719       1  0 May14 ?        00:00:01 /usr/lib/snapd/snapd
+root         720       1  0 May14 ?        00:00:00 /usr/libexec/accounts-daemon
+root         722       1  0 May14 ?        00:00:00 /usr/libexec/switcheroo-control
+root         724       1  0 May14 ?        00:00:00 /lib/systemd/systemd-logind
+root         725       1  0 May14 ?        00:00:00 /usr/libexec/udisks2/udisksd
+root         726       1  0 May14 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        728     707  0 May14 ?        00:00:00 avahi-daemon: chroot helper
+root         759       1  0 May14 ?        00:00:00 /usr/sbin/ModemManager
+root         766       1  0 May14 ?        00:00:00 /usr/sbin/cupsd -l
+root         770       1  0 May14 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         804       1  0 May14 ?        00:00:00 /usr/sbin/cups-browsed
+root         810       1  0 May14 ?        00:00:00 /usr/sbin/cron -f -P
+root         819       1  0 May14 ?        00:00:00 /sbin/agetty -o -p -- \u --keep-baud 115200,57600,38400,9600 ttyAMA0 vt220
+kernoops     820       1  0 May14 ?        00:00:00 /usr/sbin/kerneloops --test
+root         828       1  0 May14 tty1     00:00:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+root         835       1  0 May14 ?        00:00:00 /usr/bin/slim -nodaemon
+kernoops     836       1  0 May14 ?        00:00:00 /usr/sbin/kerneloops
+root         837       1  0 May14 ?        00:00:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root         841     835  0 May14 tty2     00:00:15 /usr/lib/xorg/Xorg -nolisten tcp -auth /var/run/slim.auth
+yarnellc    1038       1  0 May14 ?        00:00:00 /lib/systemd/systemd --user
+yarnellc    1039    1038  0 May14 ?        00:00:00 (sd-pam)
+yarnellc    1045    1038  0 May14 ?        00:00:00 /usr/bin/pipewire
+yarnellc    1046    1038  0 May14 ?        00:00:00 /usr/bin/pipewire-media-session
+yarnellc    1047    1038  0 May14 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+yarnellc    1051       1  0 May14 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+yarnellc    1054     835  0 May14 ?        00:00:00 /usr/libexec/gnome-session-binary
+rtkit       1055       1  0 May14 ?        00:00:00 /usr/libexec/rtkit-daemon
+yarnellc    1064    1038  0 May14 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+yarnellc    1078    1038  0 May14 ?        00:00:00 /usr/libexec/gvfsd
+yarnellc    1091    1038  0 May14 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+yarnellc    1144    1054  0 May14 ?        00:00:00 /usr/bin/ssh-agent /usr/bin/im-launch x-session-manager
+yarnellc    1161       1  0 May14 ?        00:00:02 /usr/bin/ibus-daemon --daemonize --xim
+yarnellc    1170    1038  0 May14 ?        00:00:00 /usr/libexec/at-spi-bus-launcher
+yarnellc    1178    1170  0 May14 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_0.0
+yarnellc    1180    1161  0 May14 ?        00:00:00 /usr/libexec/ibus-dconf
+yarnellc    1181    1161  0 May14 ?        00:00:00 /usr/libexec/ibus-ui-gtk3
+yarnellc    1182    1161  0 May14 ?        00:00:00 /usr/libexec/ibus-extension-gtk3
+yarnellc    1187       1  0 May14 ?        00:00:00 /usr/libexec/ibus-x11 --kill-daemon
+yarnellc    1190    1038  0 May14 ?        00:00:00 /usr/libexec/ibus-portal
+yarnellc    1199    1038  0 May14 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+yarnellc    1204    1038  0 May14 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+yarnellc    1210    1038  0 May14 ?        00:00:00 /usr/libexec/xdg-document-portal
+yarnellc    1213    1038  0 May14 ?        00:00:00 /usr/libexec/xdg-permission-store
+root        1219    1210  0 May14 ?        00:00:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+yarnellc    1233    1038  0 May14 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gnome
+yarnellc    1243    1038  0 May14 ?        00:00:00 /usr/libexec/tracker-miner-fs-3
+yarnellc    1262    1038  0 May14 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+yarnellc    1274    1038  0 May14 ?        00:00:00 /usr/libexec/dconf-service
+yarnellc    1295    1161  0 May14 ?        00:00:00 /usr/libexec/ibus-engine-simple
+yarnellc    1306    1038  0 May14 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+yarnellc    1321    1038  0 May14 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+yarnellc    1326    1038  0 May14 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+yarnellc    1344    1038  0 May14 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+yarnellc    1362    1038  1 May14 ?        00:00:52 /usr/bin/gnome-shell
+yarnellc    1368    1038  0 May14 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+yarnellc    1372    1038  0 May14 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+yarnellc    1377    1038  0 May14 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+yarnellc    1381    1038  0 May14 ?        00:00:00 /usr/libexec/goa-daemon
+yarnellc    1390    1038  0 May14 ?        00:00:00 /usr/libexec/goa-identity-service
+root        1396       1  0 May14 ?        00:00:00 /usr/libexec/upowerd
+yarnellc    1424    1038  0 May14 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+yarnellc    1432    1038  0 May14 ?        00:00:00 /usr/libexec/evolution-source-registry
+yarnellc    1440    1038  0 May14 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+yarnellc    1449    1038  0 May14 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+root        1456       1  0 May14 ?        00:00:00 /usr/libexec/packagekitd
+yarnellc    1465    1038  0 May14 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+yarnellc    1475    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+yarnellc    1476    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-color
+yarnellc    1477    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-datetime
+yarnellc    1478    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-housekeeping
+yarnellc    1479    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-keyboard
+yarnellc    1480    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-media-keys
+yarnellc    1483    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-power
+yarnellc    1486    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-print-notifications
+yarnellc    1488    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-rfkill
+yarnellc    1489    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+yarnellc    1491    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-sharing
+yarnellc    1494    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-smartcard
+yarnellc    1496    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-sound
+yarnellc    1497    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-wacom
+yarnellc    1499    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-xsettings
+yarnellc    1527    1038  0 May14 ?        00:00:00 /usr/bin/spice-vdagent
+root        1567       1  0 May14 ?        00:00:00 /usr/sbin/spice-vdagentd
+yarnellc    1576    1038  0 May14 ?        00:00:00 /usr/libexec/gsd-printer
+yarnellc    1603    1321  0 May14 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+yarnellc    1608    1321  0 May14 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+colord      1649       1  0 May14 ?        00:00:00 /usr/libexec/colord
+yarnellc    1712    1038  0 May14 ?        00:00:00 /usr/libexec/gvfsd-metadata
+yarnellc    1716    1038  0 May14 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+yarnellc    1816    1321  0 May14 ?        00:00:00 update-notifier
+yarnellc    1865    1038  0 May14 ?        00:00:00 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+yarnellc    1868    1865  0 May14 ?        00:00:00 /usr/bin/gnome-terminal.real --wait
+yarnellc    1871    1038  0 May14 ?        00:00:09 /usr/libexec/gnome-terminal-server
+yarnellc    1905    1871  0 May14 pts/0    00:00:00 bash
+root        2722       2  0 00:00 ?        00:00:00 [kworker/1:2-events]
+root        2815       2  0 00:22 ?        00:00:00 [kworker/u8:0-events_unbound]
+root        3100       2  0 00:29 ?        00:00:00 [kworker/2:0-events]
+root        3101       2  0 00:29 ?        00:00:00 [kworker/0:0-events]
+root        3123       2  0 00:33 ?        00:00:00 [kworker/1:0-events]
+root        3172       2  0 00:39 ?        00:00:00 [kworker/0:1-mm_percpu_wq]
+root        3440       2  0 00:44 ?        00:00:00 [kworker/0:2-events]
+root        3441       2  0 00:46 ?        00:00:00 [kworker/u8:2-events_unbound]
+root        3701       2  0 00:46 ?        00:00:00 [kworker/2:1-mm_percpu_wq]
+yarnellc    3702    1905  0 00:47 pts/0    00:00:00 ps -ef
